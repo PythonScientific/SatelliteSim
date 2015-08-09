@@ -1,3 +1,3 @@
 # SatelliteSim
-Simulate the navigation satellites movements and signal changes from variuos points on Earth's ground level.
-Then try to correctly possition your imaginary GPS device on the groung using the simulated signals.
+Simulate the navigation satellites movements and signal changes from various points on Earth's ground level.
+Then try to correctly position your imaginary GPS device on the ground using the simulated signals.
